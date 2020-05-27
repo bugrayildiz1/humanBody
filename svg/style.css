@@ -1,0 +1,11 @@
+#s-right{
+    transform:translate(40,0);
+    transform-origin: center;
+}
+
+#s-left .path{
+    /*transform-origin: 300px 0px;*/
+    /*transform: translateX(100px);*/
+    transform: scaleX(-1);
+
+}

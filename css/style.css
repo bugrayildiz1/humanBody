@@ -1,0 +1,12 @@
+body{
+    background-color: deepskyblue;
+}
+
+.map{
+    width:29%;
+    margin: auto;
+}
+
+.map path{
+    fill: red;
+}
